@@ -1259,6 +1259,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
 - [Plexus](https://plexus.techlore.tech/) - Remove the fear of Android app compatibility on de-Googled devices. Find if an app will work on a De-Googled device.
 - [Netguard](https://netguard.me/) - A simple way to block access to the internet per application.
 - [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+- [Data Saver](https://anubisproductions.github.io/data-saver-usage-blocker/) - Shows which apps spend your mobile data, foreground and background separately, and blocks them per network. Has no INTERNET permission, so it cannot send anything anywhere. GPL-3.0.
 - [🤖](#icons) [Orbot](https://orbot.app/) - Routes app traffic through the Tor network, system-wide as a VPN or per app. Made by the Guardian Project.
 
 [Back to top 🔝](#contents)
